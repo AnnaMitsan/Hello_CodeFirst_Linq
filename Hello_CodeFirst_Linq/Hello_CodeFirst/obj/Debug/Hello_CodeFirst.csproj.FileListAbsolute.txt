@@ -1,0 +1,16 @@
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.Migrations.InitialCreate.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.csproj.GenerateResource.Cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.Migrations.ElseTables.resources
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\bin\Debug\Hello_CodeFirst.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\databases\Hello_CodeFirst_Linq\Hello_CodeFirst\obj\Debug\Hello_CodeFirst.pdb
